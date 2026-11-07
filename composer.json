@@ -1,0 +1,9 @@
+{
+  "name": "elnemer70/hadith-php-mudallis-tadlis-check",
+  "description": "Mudallis An'anah & Explicit Sama' Transmission Formula Checker (فاحص التدليس وعنعنة المدلسين وصيغ الأداء والتحمل)",
+  "type": "project",
+  "license": "MIT",
+  "require": {
+    "php": ">=8.1"
+  }
+}
